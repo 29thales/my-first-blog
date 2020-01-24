@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7ee2658-856d-4c8b-aa6a-6d5b212cf2bd" name="Default Changelist" comment="" />
+    <list default="true" id="c7ee2658-856d-4c8b-aa6a-6d5b212cf2bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,22 +65,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Notifications/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1579886714530" />
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579886652992">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579895681754">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1579886652992" />
-    <state x="433" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579864383682">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1579895681754" />
+    <state x="433" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579895070128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="433" y="168" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1579864383682" />
+    <state x="433" y="168" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1579895070128" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1579886598754">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1579886598754" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579886838617">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579896058679">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1579886838617" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1579896058679" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579886645628">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
